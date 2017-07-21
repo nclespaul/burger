@@ -15,7 +15,7 @@ This application demonstrates a simple full stack application with a front end i
 </p>
 <p align="center">
   <kbd>
-  <img src="assets/images/screen1.png" width="500"/>
+  <img src="public/assets/images/screen1.png" width="500"/>
   </kbd>
 </p>
 
