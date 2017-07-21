@@ -1,10 +1,10 @@
 ### Eat Da Burger! - A menu customization app.
 ***
 
--Author:  Darrell Freeman
--Date: June 8, 2017
--Tools Used:  HTML5, CSS, Javascript, JQuery, Node.js, Express, MySQL, Handlebars, NPM's (express, body-parser, method-override, mysql
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  express-handlebars)
+- Author:  Darrell Freeman
+- Date: June 8, 2017
+- Tools Used:  HTML5, CSS, Javascript, JQuery, Node.js, Express, MySQL, Handlebars, 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  NPM's (express, body-parser, method-override, mysql, express-handlebars)
 
 
 ## Description
