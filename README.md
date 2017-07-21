@@ -3,7 +3,7 @@
 
 - Author:  Darrell Freeman
 - Date: June 8, 2017
-- Tools Used:  HTML5, CSS, Javascript, JQuery, Node.js, Express, MySQL, Handlebars
+- Tools Used:  HTML5, CSS, Javascript, JQuery, Node.js, Express, MySQL, Handlebars</br>
 NPM's (express, body-parser, mysql, method-override, express-handlebars)
 
 
